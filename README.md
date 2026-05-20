@@ -27,4 +27,4 @@ Developed an interactive Sales Insights Dashboard using SQL and Power BI to anal
 
 
 ## Author
-Susmitha
+Alappa Gari Susmitha
